@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <!-- RecipesDetail -->
+    <string name="ingredient_list_title">INGREDIENTS:</string>
+    <string name="previous_step">Previous step</string>
+    <string name="next_step">Next step</string>
+
+    <!-- Widget -->
+    <string name="appwidget_text">Baking App</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>
